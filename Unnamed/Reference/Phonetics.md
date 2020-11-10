@@ -1,4 +1,4 @@
-# Unnamed IAL
+# Reference
 
 ## Phonetics
 
@@ -24,4 +24,8 @@ CVC.  (Restrictions apply)
 C stands for consonant and V for vowel.  
 The first C is termed C1, and the second C is termed C2. The next syllable's C1 is termed C3.  
 
-SS Rule: C2 is allowed to be anything else except - or L, if C3 is L. Otherwise, it could only be either M, N or L.
+C2 and C3 cannot be the same.
+If C3 is L, C2 can be anything except - or L itself.
+If C3 is NOT L, C2 can only be M, N or L.
+
+See also: Writing.
